@@ -5,3 +5,5 @@ Author(s):
 * Ankur Mahesh (UC Berkeley)
 
 Originally presented at CCAI Summer School 2022
+
+Introductory slides can be accessed [here](https://docs.google.com/presentation/d/1GeqTg06fBcDXI9ffrvqiMxlnxO12lsHLe_m03N18Kog/edit).
