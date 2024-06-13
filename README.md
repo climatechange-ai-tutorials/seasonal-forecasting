@@ -2,7 +2,7 @@
 Existing El Niño forecasts use dynamical models that rely on the physics of the atmosphere and ocean. Learn how to create El Niño forecasts using machine learning instead, which uses statistical optimization to issue forecasts.
 
 Author(s):
-* Ankur Mahesh (UC Berkeley)
+* Ankur Mahesh (University of California Berkeley)
 * Mel Hanna (Climate Change AI)
 
 Originally presented at Climate Change AI Summer School 2022
@@ -45,6 +45,6 @@ Mahesh, A., & Hanna, M. (2024). Forecasting the El Nino/ Southern Oscillation wi
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11624957},
   booktitle={Climate Change AI Summer School},
-  howpublished={\url{https://github.com/climatechange-ai-tutorials/tracking-ml-emissions}}
+  howpublished={\url{https://github.com/climatechange-ai-tutorials/seasonal-forecasting}}
 }
 ```
